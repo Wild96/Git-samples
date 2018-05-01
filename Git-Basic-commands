@@ -1,0 +1,14 @@
+
+basics - when you start 
+
+1.git init - initalize git 
+2.git remote add origin (ref name) url(github url)- create a ref for the git repo
+3.git add <filename> -selct files to commit
+4.git commit -m "< specify a commit message>"- set commit message
+5.git push origin <branchname> - push the file from .git to github repo.
+6. git pull origin <branchname> - get the latest code
+// It is always mandate to pull before you push anything //
+
+6.git checkout -b <branchname> -creating branches 
+7.git branch - dispaly all branches in a repo git branch
+8.git checkout <branchname> - switching betweeen branches
